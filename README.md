@@ -10,7 +10,7 @@ Multi-thread Twitter BruteForcer in Shell Script
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/tweetshell
+git clone https://github.com/DarkDream98/RCO7.git
 cd tweetshell
 chmod +x tweetshell.sh
 service tor start
